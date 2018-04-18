@@ -1,9 +1,9 @@
 # BIG DATA
 * [Big Data Characteristics](#big-data-characteristics)
 * [Types Of Big Data](#types-of-big-data)
- - [Structured Data](#structured-data)
- - [Unstructured Data](#unstuctured-data)
- - [Semi Structured Data](#semi-structured-data)
+   - [Structured Data](#structured-data)
+   - [Unstructured Data](#unstuctured-data)
+   - [Semi Structured Data](#semi-structured-data)
 
 Big data is the collection of data sets so large and complex to process using on-hand database management tools or traditional data processing application.
 
