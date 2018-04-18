@@ -1,4 +1,4 @@
-**BIG DATA**
+#BIG DATA
 Big data is the collection of data sets so large and complex to process using on-hand database management tools or traditional data processing application.
 
 The challenges include capture, curation, storage, search, sharing, transfer, analysis, and visualization.
