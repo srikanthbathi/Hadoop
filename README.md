@@ -37,7 +37,7 @@ Big data could be of three types
 * Semi-Structured
 * Unstructured
 
-## Structure Data
+## Structured Data
 The data that has a fixed schema is knowm as Structured Data. Examples of Structured Data are the data stored in RDBMS.
 Processing the Structured data is Very simple as it has fixed schema. SQL is oftrn used to manage this kind of data.
 
@@ -46,14 +46,14 @@ Processing the Structured data is Very simple as it has fixed schema. SQL is oft
 Where as **Hadoop is Schema on Read** - 
 Reason for Hadoop not being Schema on write because of the reason that data we are going to write is very huge,if we have to validate this huge data the writing will be slower into hadoop and its not the case where data is always structured.
 
-## Unstructure Data
+## Unstructured Data
 
 The data which have unknown form and cannot be stored in RDBMS and cannot be analyzed unless it is transformed into a structured format is called as unstructured data. Text Files and multimedia contents like images, audios, videos are example of unstructured data. The unstructured data is growing quicker than others, experts say that 80 percent of the data in an organization are unstructured. 
 
 
 ## Semi Structured Data
 
-Data which is partially structured 
+Data which is partially structured. XML files or JSON documents are examples of semi-structured data.
 
 
 
